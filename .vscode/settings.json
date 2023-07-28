@@ -1,0 +1,7 @@
+{
+    "editor.find.autoFindInSelection": "never",
+    "editor.minimap.autohide": false,
+    "editor.minimap.enabled": true,
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.tips.enabled": true
+}
